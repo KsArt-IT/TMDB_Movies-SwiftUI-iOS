@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
+    @Environment(\.diManager) private var di
+ 
     var body: some View {
         VStack {
         }
