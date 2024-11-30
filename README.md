@@ -1,6 +1,6 @@
 # TMDB - The Movie Database (iOS)
 
-![Apple](https://img.shields.io/badge/iOS-18-FFFF66?logo=apple) ![Language](https://img.shields.io/badge/Swift-5-blue?logo=swift) ![UI](https://img.shields.io/badge/SwiftUI-6-yelow?logo=NextUI) ![License](https://img.shields.io/badge/license-MIT-EF443B?logo=Cachet)
+![Apple](https://img.shields.io/badge/iOS-17-FFFF66?logo=apple) ![Language](https://img.shields.io/badge/Swift-5-blue?logo=swift) ![UI](https://img.shields.io/badge/SwiftUI-5-yelow?logo=NextUI) ![License](https://img.shields.io/badge/license-MIT-EF443B?logo=Cachet)
 
 TMDB - the movies and detailed information about films
 
